@@ -6,7 +6,7 @@ It allows users to generate strong passwords with customizable options like leng
 ---
 
 ## 🌐 Live Demo
-👉 https://marisugam69.github.io/pass_generator/
+👉 [https://marisugam69.github.io/pass_generator/
 
 ---
 
