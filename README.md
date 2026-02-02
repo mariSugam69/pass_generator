@@ -1,34 +1,36 @@
-# pass_generator
-🔐 Password Generator
+# 🔐 Password Generator
 
-A simple and responsive Random Password Generator built using HTML, CSS, and JavaScript.
+A simple and responsive **Random Password Generator** built using **HTML, CSS, and JavaScript**.  
 It allows users to generate strong passwords with customizable options like length, uppercase letters, numbers, and symbols.
 
-✨ Features
+---
 
-✅ Generate random secure passwords
+## 🌐 Live Demo
+👉 https://marisugam69.github.io/pass_generator/
 
-🔢 Choose password length (4–30 characters)
+---
 
-🔠 Include/exclude:
+## ✨ Features
 
-  Uppercase letters
+- ✅ Generate random secure passwords
+- 🔢 Choose password length (4–30 characters)
+- 🔠 Include / Exclude:
+  - Uppercase letters
+  - Lowercase letters
+  - Numbers
+  - Symbols
+- 📋 One-click copy to clipboard
+- 📱 Responsive and easy-to-use UI
 
-  Lowercase letters
+---
 
-  Numbers
+## 🛠️ Technologies Used
 
-  Symbols
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla JS)**
 
-📋 One-click copy to clipboard
+---
 
-📱 Responsive and easy-to-use UI
+## 📁 Project Structure
 
-
-🛠️ Technologies Used
-
-    -HTML5
-
-    -CSS3
-
-   -JavaScript (Vanilla JS)
